@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sly-app/static/css/main.dc4d6ff2.css",
-    "main.js": "/sly-app/static/js/main.20ed0d99.js",
+    "main.css": "/sly-app/static/css/main.5298d491.css",
+    "main.js": "/sly-app/static/js/main.0804d225.js",
     "index.html": "/sly-app/index.html",
-    "main.dc4d6ff2.css.map": "/sly-app/static/css/main.dc4d6ff2.css.map",
-    "main.20ed0d99.js.map": "/sly-app/static/js/main.20ed0d99.js.map"
+    "main.5298d491.css.map": "/sly-app/static/css/main.5298d491.css.map",
+    "main.0804d225.js.map": "/sly-app/static/js/main.0804d225.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.20ed0d99.js"
+    "static/css/main.5298d491.css",
+    "static/js/main.0804d225.js"
   ]
 }
